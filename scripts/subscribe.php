@@ -1,6 +1,6 @@
 <?php
-$apiKey = 'cb1bbe31e37631b48fb3b39bdd938724-us17'; // your mailchimp API KEY here
-$listId = '39825'; // your mailchimp LIST ID here
+$apiKey = ''; // your mailchimp API KEY here
+$listId = ''; // your mailchimp LIST ID here
 $double_optin=false;
 $send_welcome=false;
 $email_type = 'html';
